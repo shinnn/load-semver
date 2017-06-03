@@ -9,7 +9,7 @@ Load [`semver`](https://www.npmjs.com/package/request) module from [either CWD o
 const loadSemver = require('load-semver');
 
 (async () => {
-  const {parse} = loadSemver();
+  const {parse} = await loadSemver();
   const {major, minor, patch} = parse('1.25.48');
 
   major; //=> 1
