@@ -1,6 +1,6 @@
 {
   "name": "load-semver",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Load `semver` module from either CWD or npm CLI directory",
   "repository": "shinnn/load-semver",
   "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
