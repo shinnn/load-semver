@@ -41,4 +41,4 @@ Read [the document of `load-from-cwd-or-npm`](https://github.com/shinnn/load-fro
 
 ## License
 
-[Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed)
+[ISC License](./LICENSE) © 2018 Shinnosuke Watanabe
