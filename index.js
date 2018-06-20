@@ -4,6 +4,6 @@ const loadFromCwdOrNpm = require('load-from-cwd-or-npm');
 
 const promise = loadFromCwdOrNpm('semver');
 
-module.exports = function loadSemver() {
+module.exports = async function loadSemver() {
 	return promise;
 };
