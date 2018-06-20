@@ -1,6 +1,6 @@
 # load-semver
 
-[![NPM version](https://img.shields.io/npm/v/load-semver.svg)](https://www.npmjs.com/package/load-semver)
+[![npm version](https://img.shields.io/npm/v/load-semver.svg)](https://www.npmjs.com/package/load-semver)
 [![Build Status](https://travis-ci.org/shinnn/load-semver.svg?branch=master)](https://travis-ci.org/shinnn/load-semver)
 
 Load [`semver`](https://www.npmjs.com/package/request) module from [either CWD or `npm` CLI directory](https://github.com/shinnn/load-from-cwd-or-npm).
@@ -21,7 +21,7 @@ const loadSemver = require('load-semver');
 
 ## Installation
 
-[Use npm.](https://docs.npmjs.com/cli/install)
+[Use](https://docs.npmjs.com/cli/install) [npm](https://docs.npmjs.com/getting-started/what-is-npm).
 
 ```
 npm install load-semver
